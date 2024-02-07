@@ -1,0 +1,11 @@
+#include "Arrays2."
+
+Arrays2::Arrays2()
+{
+    //ctor
+}
+
+Arrays2::~Arrays2()
+{
+    //dtor
+}

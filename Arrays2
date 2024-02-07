@@ -1,0 +1,16 @@
+#ifndef ARRAYS2_
+#define ARRAYS2_
+
+
+class Arrays2
+{
+    public:
+        Arrays2();
+        virtual ~Arrays2();
+
+    protected:
+
+    private:
+};
+
+#endif // ARRAYS2_
